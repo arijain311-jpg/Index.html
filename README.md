@@ -70,8 +70,8 @@
 <section id="contact" class="section gray-bg">
   <h2>Contact</h2>
   <p id="contactText" contenteditable="false" class="center-text">
-    Phone: +91-XXXXXXXXXX<br>
-    Address: Add clinic address here<br>
+    Phone: +91-8989410829<br>
+    Address: Add clinic address Near Canara bank Gol chauraha Nai aabadi Mandsaur<br>
     Timings: Morning & Evening
   </p>
 </section>
@@ -102,7 +102,7 @@
   <div class="contact-box">
     <p><strong>Tathastu Clinic</strong></p>
     <p>📍 Clinic Address (Add Here)</p>
-    <p>📞 Phone: +91-XXXXXXXXXX</p>
+    <p>📞 Phone: +91-8989410829</p>
     <p>⏰ Timings: Morning & Evening</p>
     <p class="note">Prior appointment recommended</p>
   </div>
