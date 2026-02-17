@@ -1,4 +1,4 @@
-const ADMIN_PASSWORD = "tathastu123"; // change this
+const ADMIN_PASSWORD = "tathastu1234"; // change this
 
 function openLogin() {
   document.getElementById("adminPanel").style.display = "block";
