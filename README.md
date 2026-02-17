@@ -71,7 +71,7 @@
   <h2>Contact</h2>
   <p id="contactText" contenteditable="false" class="center-text">
     Phone: +91-8989410829<br>
-    Address: Add clinic address Near Canara bank Gol chauraha Nai aabadi Mandsaur<br>
+    Address: Near Canara bank Gol chauraha Nai aabadi Mandsaur<br>
     Timings: Morning & Evening
   </p>
 </section>
@@ -101,7 +101,7 @@
   <h2>Contact & Appointments</h2>
   <div class="contact-box">
     <p><strong>Tathastu Clinic</strong></p>
-    <p>📍 Clinic Address (Add Here)</p>
+    <p>📍 Clinic Address (Near Canara bank Gol Chauraha Nai aabadi Mandsaur)</p>
     <p>📞 Phone: +91-8989410829</p>
     <p>⏰ Timings: Morning & Evening</p>
     <p class="note">Prior appointment recommended</p>
